@@ -1,0 +1,34 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+
+# Deep learning frameworks
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# Computer vision & image processing
+opencv-python
+Pillow
+
+# Model-specific / advanced architectures
+timm              # PyTorch Image Models (Swin Transformer, ViT, EfficientNet, etc.)
+segmentation-models-pytorch  # UNet, DeepLabV3, etc.
+transformers      # HuggingFace (ViT, Swin, attention modules)
+
+# Utilities
+tqdm
+jupyter
+notebook
+
+# Optional: CRF/MRF support
+pytorch-crf       # Conditional Random Fields
+pydensecrf        # DenseCRF for segmentation
+
+# Logging & visualization
+tensorboard
